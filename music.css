@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url("m3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul li {
+    list-style: none;
+    float: left;
+    margin-left: 38px;
+}
+
+.menu {
+    padding-left: 64.3%;
+    display: block;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: bold;
+}
+
+.hm {
+    margin-left: 17%;
+    margin-top: 20%;
+    font-style: bold;
+    color: aqua;
+}
+
+.sou img {
+    width: 70px;
+    margin-left: 84%;
+    margin-top: -50px;
+}
